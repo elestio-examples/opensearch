@@ -8,9 +8,9 @@
 
 # Opensearch, verified and packaged by Elestio
 
-[Odoo](https://github.com/opensearch-project/OpenSearch) Open source distributed and RESTful search engine.
+[Opensearch](https://github.com/opensearch-project/OpenSearch) Open source distributed and RESTful search engine.
 
-<img src="https://github.com/elestio-examples/opensearch/raw/main/screenshot.png" alt="opensearch" width="800">
+<img src="https://github.com/elestio-examples/opensearch/raw/master/screenshot.png" alt="opensearch" width="800">
 
 Deploy a <a target="_blank" href="https://elest.io/open-source/opensearch">fully managed opensearch</a> on <a target="_blank" href="https://elest.io/">elest.io</a> OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana \n7.10.2.
 
