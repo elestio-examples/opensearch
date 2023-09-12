@@ -14,7 +14,7 @@
 
 Deploy a <a target="_blank" href="https://elest.io/open-source/opensearch">fully managed opensearch</a> on <a target="_blank" href="https://elest.io/">elest.io</a> OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana \n7.10.2.
 
-[![deploy](https://github.com/elestio-examples/opensearch/raw/main/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/opensearch)
+[![deploy](https://github.com/elestio-examples/opensearch/raw/master/deploy-on-elestio.png)](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/opensearch)
 
 # Why use Elestio images?
 
